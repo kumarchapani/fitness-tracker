@@ -64,8 +64,8 @@ A modern, cross-platform fitness tracking application built with React and Capac
 
 ##  Platform Support
 
-- ✅ **Web** - Modern browsers (Chrome, Firefox, Safari, Edge)
-- ✅ **Android** - Android 5.0+ (APK available)
+-  **Web** - Modern browsers (Chrome, Firefox, Safari, Edge)
+-  **Android** - Android 5.0+ (APK available)
 
 
 ---
@@ -108,7 +108,7 @@ This creates optimized production files in the `dist/` folder.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 FitnessTracker/
@@ -327,14 +327,14 @@ For issues or questions:
 ##  Project Goals
 
 This fitness tracker was built to:
-- ✅ Help users stay consistent with their training
-- ✅ Provide a distraction-free workout experience
-- ✅ Track progress without requiring sign-ups
-- ✅ Work offline without backend dependencies
-- ✅ Deliver a beautiful, intuitive interface
+-  Help users stay consistent with their training
+-  Provide a distraction-free workout experience
+-  Track progress without requiring sign-ups
+-  Work offline without backend dependencies
+-  Deliver a beautiful, intuitive interface
 
 ---
 
-**Built with ❤️ by Ruthwik**
+**Built with ❤️ by kumar**
 
 [GitHub](https://github.com/ruthwik11) | [Website](https://fitnesstracker-flame.vercel.app)
