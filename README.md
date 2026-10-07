@@ -6,29 +6,29 @@ A modern, cross-platform fitness tracking application built with React and Capac
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📋 **Workout Tracking**
+### **Workout Tracking**
 - 6-day training split program (Monday-Saturday with rest days)
 - Exercise tracking with sets, reps, and rest periods
 - Real-time timer for rest intervals
 - Exercise detail view with coaching tips and form guidance
 - Set completion tracking with progress visualization
 
-### 🥗 **Nutrition Guide**
+### **Nutrition Guide**
 - Pre-planned nutrition recommendations
 - Macro breakdowns for daily meals
 - Healthy eating guidelines
 - Integrated nutrition planning
 
-### 📊 **Progress Analytics**
+###  **Progress Analytics**
 - Calendar view of completed workouts
 - Monthly, weekly, and yearly attendance stats
 - Training streak counter
 - Workout completion percentage
 - Visual progress charts with Recharts
 
-### 🎯 **Additional Features**
+###  **Additional Features**
 - No authentication needed (local storage only)
 - Offline-first approach
 - Responsive design for mobile and web
@@ -38,7 +38,7 @@ A modern, cross-platform fitness tracking application built with React and Capac
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18.3+** - UI framework
@@ -62,7 +62,7 @@ A modern, cross-platform fitness tracking application built with React and Capac
 
 ---
 
-## 📱 Platform Support
+##  Platform Support
 
 - ✅ **Web** - Modern browsers (Chrome, Firefox, Safari, Edge)
 - ✅ **Android** - Android 5.0+ (APK available)
@@ -72,7 +72,7 @@ A modern, cross-platform fitness tracking application built with React and Capac
 
 
 
-## 🚀 Getting Started (Development)
+##  Getting Started (Development)
 
 ### Prerequisites
 - Node.js 16+ and npm/yarn
@@ -143,7 +143,7 @@ FitnessTracker/
 
 ---
 
-## 💾 Data Storage
+##  Data Storage
 
 ### How It Works
 - All data is stored locally in the browser's **LocalStorage**
@@ -196,7 +196,7 @@ console.log(JSON.stringify(allData));
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Modifying the Training Program
 Edit `src/data/workoutData.js`:
@@ -251,7 +251,7 @@ npm run lint         # Run ESLint
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 ### Web (Vercel)
 ```bash
@@ -264,22 +264,22 @@ vercel
 
 ---
 
-## 🔒 Security & Privacy
+##  Security & Privacy
 
-✅ **Privacy First**
+ **Privacy First**
 - No user authentication required
 - No data transmitted to servers
 - All data stored locally on device
 - No tracking or analytics
 
-⚠️ **Limitations**
+ **Limitations**
 - Data not backed up to cloud
 - Data lost if browser cache is cleared
 - No data sync across devices
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Data not saving?
 - Check if LocalStorage is enabled in browser
@@ -299,13 +299,13 @@ server: {
 ---
 
 
-## 📝 License
+##  License
 
 This project is open source and available for personal and educational use.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to:
 - Report bugs
@@ -315,7 +315,7 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📧 Support
+##  Support
 
 For issues or questions:
 - Open a GitHub issue
@@ -324,7 +324,7 @@ For issues or questions:
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 This fitness tracker was built to:
 - ✅ Help users stay consistent with their training
